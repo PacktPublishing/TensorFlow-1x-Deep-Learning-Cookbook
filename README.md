@@ -18,10 +18,10 @@ The code will look like the following:
 For this book, you will need Python version 3.5 (https://www.continuum.io/downloads)
 along with TensorFlow (www.tensorflow.org). The following hardware specifications are
 recommended:
-CPU architecture: x86_64
-System memory: 8-32 GB
-CPUs: 4-8 cores
-GPUs: (Optional, minimum NVDIA ® GTX 650)
+* CPU architecture: x86_64
+* System memory: 8-32 GB
+* CPUs: 4-8 cores
+* GPUs: (Optional, minimum NVDIA ® GTX 650)
 
 ## Related Products
 * [Machine Learning with TensorFlow 1.x](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-tensorflow-1x?utm_source=github&utm_medium=repository&utm_campaign=9781786462961)
