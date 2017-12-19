@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/gulli/Books/TF/code/git/tensorflowBook/Chapter6/model_shakespeare-64314"
+all_model_checkpoint_paths: "/Users/gulli/Books/TF/code/git/tensorflowBook/Chapter6/model_shakespeare-64314"
